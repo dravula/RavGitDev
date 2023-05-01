@@ -1,3 +1,5 @@
 Hi, it's Monday night and we are in the SCM and Devops class.
 Now checking whether we can skip git add command and commit the changes directly.
 Next, testing the git add bypass by git commit -a -m command. lets see.
+
+Now checking the stash command.
